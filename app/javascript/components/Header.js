@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Header = () => (
   <header>
     <h1>
-      <Link to="/events">Event Manager</Link>
+      <Link to="/events">Event Manager - V2</Link>
     </h1>
   </header>
 );
